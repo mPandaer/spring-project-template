@@ -16,6 +16,8 @@
         <module>framework-basic</module>
         <module>framework-web</module>
         <module>framework-orm</module>
+        <module>framework-validation</module>
+        <module>framework-api-doc</module>
     </modules>
 
     <properties>
